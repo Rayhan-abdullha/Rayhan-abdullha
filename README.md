@@ -1,8 +1,7 @@
-![Web Applicaton Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/294021782_589832686185656_2016161783278253256_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HLmm9c_IT_8AX-xeke0&_nc_ht=scontent.fdac31-1.fna&oh=00_AfArfmtVHrwkTORtpfGUsyIOYlAnzwurEdka_cWreF9g8Q&oe=63DF7FDE)
+![Web Applicaton Developer](https://pbs.twimg.com/profile_banners/1142598727778963456/1675272116/600x200)
 
 ### Hi there 👋, I am Rayhan Abdullah
 #### Web Applicaton Developer
-
 
 Hi, I am Rayhan. A web application developer. I love problem-solving. My core skill is based on Javascript. Every single day i
 am doing improve myself.
