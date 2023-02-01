@@ -1,15 +1,29 @@
-### Hi there 👋
+![Web Applicaton Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/294021782_589832686185656_2016161783278253256_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HLmm9c_IT_8AX-xeke0&_nc_ht=scontent.fdac31-1.fna&oh=00_AfArfmtVHrwkTORtpfGUsyIOYlAnzwurEdka_cWreF9g8Q&oe=63DF7FDE)
 
-**Rayhan-abdullha/Rayhan-abdullha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I am Rayhan Abdullah
+#### Web Applicaton Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I am Rayhan. A web application developer. I love problem-solving. My core skill is based on Javascript. Every single day i
+am doing improve myself.
 
+Skills: Javascript / Python / C / C++ / React / NextJs / MongoDB / Express / Redux
+
+- 🔭 I’m currently working on MERN STACK 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rayhan-abdullha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-abdullah-100956189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100054767896181)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rayhan_abdullha?)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1NRZYzaieER4nM18l6vAAQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://coder-rayhan.vercel.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rayhan-abdullha)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayhan-abdullha&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rayhan-abdullha)  
+
+![GitHub metrics](https://metrics.lecoq.io/Rayhan-abdullha)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rayhan-abdullha)  
+
+![Profile views](https://gpvc.arturio.dev/Rayhan-abdullha)  
