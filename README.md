@@ -1,4 +1,4 @@
-![Web Applicaton Developer]([https://pbs.twimg.com/profile_banners/1142598727778963456/1675272116/600x200]))
+![Web Applicaton Developer](https://pbs.twimg.com/profile_banners/1142598727778963456/1675272116/600x200)
 
 ### Hi there 👋, I am Rayhan Abdullah
 #### Web Applicaton Developer
