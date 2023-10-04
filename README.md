@@ -7,7 +7,7 @@
 Hi, I am Rayhan. A web application developer. I love problem-solving. My core skill is based on Javascript. Every single day i
 am doing improve myself.
 
-Skills: Javascript / Python / C / C++ / React / NextJs / MongoDB / Express / Redux
+Skills: Javascript / Python / C / C++ / React / NextJs / MongoDB / Express / Redux / Prisma / mongoose / html / Css / Tailwind / Bootstrap
 
 - 🔭 I’m currently working on MERN STACK 
 
