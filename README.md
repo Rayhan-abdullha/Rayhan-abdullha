@@ -1,6 +1,5 @@
 ![Web Applicaton Developer](https://i.ibb.co/9w7shyp/2.png)
 
-
 ### Hi there 👋, I am Rayhan Abdullah
 #### Web Applicaton Developer
 
