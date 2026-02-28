@@ -1,4 +1,4 @@
-![Web Application Developer](https://i.ibb.co/Q3W9Gy3S/Gemini-Generated-Image-89x8gk89x8gk89x8.png)
+![Web Application Developer](https://i.ibb.co.com/Q3W9Gy3S/Gemini-Generated-Image-89x8gk89x8gk89x8.png)
 
 <h1 align="center">Hi 👋, I'm Rayhan Abdullah</h1>
 <h3 align="center">🚀 Full Stack Web Application Developer | MERN + Go Backend</h3>
