@@ -1,28 +1,101 @@
 ![Web Application Developer](https://i.ibb.co/Q3W9Gy3S/Gemini-Generated-Image-89x8gk89x8gk89x8.png)
 
-### Hi there 👋, I am Rayhan Abdullah
-#### Web Applicaton Developer
+<h1 align="center">Hi 👋, I'm Rayhan Abdullah</h1>
+<h3 align="center">🚀 Full Stack Web Application Developer | MERN + Go Backend</h3>
 
-Hi, I am Rayhan. A web application developer. I love problem-solving. My core skill is based on Javascript. Every single day i
-am doing improve myself.
+---
 
-Skills: Javascript / Python / C / C++ / React / NextJs / MongoDB / Express / Redux / Prisma / mongoose / html / Css / Tailwind / Bootstrap
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on MERN STACK 
+Hi, I’m Rayhan — a passionate Full Stack Developer who loves solving real-world problems.
 
+My core strength is JavaScript, but I also work with Go for building scalable backend systems.  
+I continuously improve myself every single day.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rayhan-abdullha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rayhan-abdullah-100956189//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100054767896181)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rayhan_abdullha?)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC1NRZYzaieER4nM18l6vAAQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://coder-rayhan.vercel.app/)  
+- 🔭 Currently building production-ready applications
+- ⚙️ Focused on Backend Architecture & System Design
+- 💡 Love business-oriented applications
+- 🚀 Exploring high-performance systems with Go
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rayhan-abdullha)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayhan-abdullha&show_icons=true&count_private=true)  
+### 💻 Programming Languages
+- JavaScript (Core Strength)
+- TypeScript
+- Go (Golang)
+- Python
+- C
+- C++
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rayhan-abdullha)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Rayhan-abdullha)  
+### 🎨 Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rayhan-abdullha)  
+---
 
-![Profile views](https://gpvc.arturio.dev/Rayhan-abdullha)  
+### 🧠 Backend & API Development
+- Node.js
+- Express.js
+- Go (Gin / Fiber – if using)
+- REST API
+- JWT Authentication
+
+---
+
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+- Redis (Caching & Session Store)
+
+---
+
+### 🔧 ORM & Tools
+- Mongoose
+- Prisma
+- Docker
+- Git & GitHub
+
+---
+
+### ⚡ State Management
+- Redux Toolkit
+- Context API
+
+---
+
+## 🏗️ Architecture Interests
+- Scalable Backend Systems
+- Microservices
+- Caching Strategy (Redis)
+- API Optimization
+- Real-time systems (Socket.io)
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://github.com/Rayhan-abdullha"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30"/></a>
+<a href="https://www.linkedin.com/in/rayhan-abdullah-100956189/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30"/></a>
+<a href="https://coder-rayhan.vercel.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" height="30"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rayhan-abdullha&show_icons=true&count_private=true" />
+<img src="https://streak-stats.demolab.com/?user=Rayhan-abdullha" />
+</p>
+
+---
+
+⭐ “Consistency beats talent when talent doesn’t work hard.”
